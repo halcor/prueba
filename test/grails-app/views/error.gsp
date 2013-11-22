@@ -11,7 +11,7 @@
 		</g:if>
 		<g:else>
 			<ul class="errors">
-				<li>Se ha encontrado un error</li>
+				<li>commit 3</li>
 			</ul>
 		</g:else>
 	</body>
