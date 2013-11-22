@@ -11,7 +11,7 @@
 		</g:if>
 		<g:else>
 			<ul class="errors">
-				<li>commit 3</li>
+				<li>no hago commit pero gravo 2 vez</li>
 			</ul>
 		</g:else>
 	</body>
