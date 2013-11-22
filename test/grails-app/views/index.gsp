@@ -11,6 +11,8 @@
 				padding: 1em;
 				width: 12em;
 				float: left;
+				
+				
 				-moz-box-shadow: 0px 0px 1.25em #ccc;
 				-webkit-box-shadow: 0px 0px 1.25em #ccc;
 				box-shadow: 0px 0px 1.25em #ccc;
@@ -104,7 +106,7 @@
 		</div>
 		<div id="page-body" role="main">
 			<h1>Hola to Grails</h1>
-			<p>Preubita en duro, you have successfully started your first Grails application! At the moment
+			<p>Preubita en duro, bueno ya vamos... successfully started your first Grails application! At the moment
 			   this is the default page, feel free to modify it to either redirect to a controller or display whatever
 			   content you may choose. Below is a list of controllers that are currently deployed in this application,
 			   click on each to execute its default action:</p>
